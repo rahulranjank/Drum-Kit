@@ -1,0 +1,39 @@
+demo1
+{
+  text-align:center;
+  color:red;
+  font-family:verdana;
+  font-size:25px;
+}
+
+.demo_class
+{
+  text-align:center;
+  color:red;
+  font-family:verdana;
+  font-size:25px;
+}
+
+.demo_class_2
+{
+  text-align:center;
+  color:red;
+  border-style:dotted ;
+  font-size:25px;
+}
+
+img{
+  border-radius:20%;
+}
+
+  body {
+    background-color: #EAF6f6;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:6%;
+
+  }

@@ -83,3 +83,5 @@ document.addEventListener("keyup", function(event) {
 		    
   }
 }
+
+console.log("hello world");
